@@ -1,2 +1,4 @@
 cars.db
 .venv
+__pycache__
+.idea
